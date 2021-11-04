@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">t1</string>
+    <string name="toggle_turn_on">Ligar</string>
+    <string name="toggle_turn_off">Desligar</string>
+    <string name="btn_display">Display</string>
+
+    <string name="hint">Digite a linguagem para selecionar</string>
+    <string name="selected_item">Selected item:</string>
+
+    <string-array name="Languages">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Swift</item>
+        <item>Python</item>
+        <item>Scala</item>
+        <item>Perl</item>
+        <item>Javascript</item>
+        <item>Jquery</item>
+    </string-array>
+
+    <string name="checked">checked</string>
+    <string name="unchecked">unchecked</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
